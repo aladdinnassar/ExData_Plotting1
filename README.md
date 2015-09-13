@@ -6,6 +6,8 @@ Uploaded 4 Code Files + 4 Images for the Date Range = Feb 1 through 2, 2007:
 * plot3: Energy Sub Metering over Time
 * plot4: Global Active Power, Voltage, Energy Sub Metering over Time
 
+See inline documentation per plotX.R file
+
 ## Introduction
 
 This assignment uses data from
