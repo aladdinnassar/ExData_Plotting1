@@ -1,3 +1,11 @@
+## Edit by Aladdin Nassar
+
+Uploaded 4 Code Files + 4 Images for the Date Range = Feb 1 through 2, 2007:
+* plot1: Histogram of Global Active Power
+* plot2: Global Active Power over Time
+* plot3: Energy Sub Metering over Time
+* plot4: Global Active Power, Voltage, Energy Sub Metering over Time
+
 ## Introduction
 
 This assignment uses data from
